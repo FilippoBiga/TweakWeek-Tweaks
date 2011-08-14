@@ -1,0 +1,9 @@
+Package: com.filippobiga.theftalarm
+Name: TheftAlarm
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Burglar Alarm.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

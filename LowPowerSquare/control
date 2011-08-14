@@ -1,0 +1,9 @@
+Package: com.filippobiga.lowpowersquare
+Name: LowPowerSquare
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Display little red square on the status bar when battery percentage < 20%.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

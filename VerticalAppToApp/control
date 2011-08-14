@@ -1,0 +1,9 @@
+Package: com.filippobiga.verticalapptoapp
+Name: verticalAppToApp
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Vertical animation switching from an app to another.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

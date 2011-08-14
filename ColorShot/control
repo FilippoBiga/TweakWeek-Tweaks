@@ -1,0 +1,9 @@
+Package: com.filippobiga.colorshot
+Name: ColorShot
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Random Color when taking Screenshots.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

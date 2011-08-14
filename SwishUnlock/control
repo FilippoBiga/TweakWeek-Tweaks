@@ -1,0 +1,9 @@
+Package: com.filippobiga.swishunlock
+Name: SwishUnlock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Slide unlock bar both directions to unlock.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks
